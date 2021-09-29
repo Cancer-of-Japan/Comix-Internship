@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mystical-rhino-294416",
+  "private_key_id": "c44d9c14870a5b1ceb4d0b33b3e93fa29f544a17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj3djBKXNXulFl\nRATWj5ZEMqE5xZVD8PPzokVTxAXs6yI5JCmGSkah3Av4eni1b4IE8QItOMlhPPVr\nZhgYhDCAiQjdCA0Yi33KEeTiKTjGhurKyw1T1P0hJ7TepEqagy6ZfqLpGvkynAiL\nQ8jIe/QP5Rqff6xasFQ+ZGVYp+5yurOsmj26lz7VkamtFVFA31qf/Ir+wFTm8rFn\nF/AT0z4LfTEmot2qaQZoYXcZqQvGHRv0ock3CgVdOMrEatKIKnBSMS0mFBuP42bM\npKwRVF5O9QZOc+iBLsNDPnl+v7ktROneIy+q1Ov+XPYNXsh+5rm3K0yZgr7BCMiy\nLwLZ+wffAgMBAAECggEAMU6n0jeuxU8C/v2glw9Nn+e8K64QZAk03rKNOc9aGRgH\njDodZJMk/b9AutvfRnjvHp2GkiTsM54sGsz1oyrjjUmuqROrHR+cEhmgTY0p0FL4\ng1zl/buxDzDrc7Lr3+JpOzanvoynP1tEFuOmnuztW3sMr8GzEvbL4ppDBJJDZbHc\ngCQKeroOjDJiLq61FgZFsjkH5sX28BftRn+bIQZKCTgmUba4ytrRlbLeoJwjkhoC\nih5++fM+g2l1BZX4K7Cg6TXWuQ0Tn/xPaQ6Y6CA5cobLP475lgpS6nJiWPhJ+QNf\nzZVzgUHGeeJoxp/P6cwNG8aSvz2ihOqeGMw9aC5YgQKBgQDeeaUheFlXH6r2z19l\n1QPlGeTjUcBk9UP3IsTZV12q7r/kMBeeOSAFcpES517NnzrxC1fiXttj4MazuBFS\nyT1/ErDqu/OBLZEH7j+nQXoLTvrh1unCLe3KzYwPOHr3pxLHwLKNovfuOK8FK7PN\nYFN+t2kpali5zzFu7RFV7Rq4GQKBgQC8j0bPNxIP7LlV5yZYMubVr6aHy49+P8ui\nFuCESz10K4/sJaDRIRAjVENnyUH76njMqYJHvAJHdlGT/zmlHJdpLO1pKp+ORXOC\nAWtUEa56OJMLWw4HhPL2vHTfEQ+l/GqD7thecEWTYNNlzsJDYYJrmt5NENV1l9ZF\n47j14JKetwKBgFQlhoPGVWRSogOAJAEMNNDunlgsj6yf5/kNuY7LMK56ZzITzpsV\n2Dq3Po/72yvC0jRhqfgBENISLpXDRSoe25e4phnixRNS/MwXHRRR+6tTUCkjdH7x\niENww0zue/Q3yS6sf9x6i3QbFHfMM9G2YV5IWQpFIxIEgBoIqMnrSHPhAoGBALsR\nAdTt87NszOoWaoox5aS1oGc0YmWD8Qgb3h4hbxRja2OCaStQu+vw2vaKSjYchj+1\nI5T7Rt+S2JgVKyFNXkFv2xDswmKpMFEYC1zaNdj3a5pmeWKoWUrD6Mas7HNmGl5N\nhMccZ0oxU0i7eSrUAEm02Tpnqv4A5wlrRMJaS9u9AoGABmRY6VXv2BQ4k2XwoiWu\nSFbXdu6EWwT6phkIlx27CVE8mZqQj+1Ozq+Rc/aKDy4mViWZVShMjSlD12LLkRqO\nhHWt/SJ80DdR0GW8eLyhS8Tus9fTTeIc96+8xb1XkpjS/nZoM019r5zzZ8qmBKUx\nVvHoRf6nWkGSSrsE+PHEckM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "read-from-python@mystical-rhino-294416.iam.gserviceaccount.com",
+  "client_id": "101968835214331416532",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/read-from-python%40mystical-rhino-294416.iam.gserviceaccount.com"
+}

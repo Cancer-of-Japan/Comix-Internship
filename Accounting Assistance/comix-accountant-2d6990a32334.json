@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "comix-accountant",
+  "private_key_id": "2d6990a323344d10905ca9856e7f335da823e002",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDxEJFj0Q4f0dX\nnCTuGPzmEBAacSB6U7WXF3dxirfXtJqtV0n7JEe12smx512s+W5EVCq97ZpgcTOM\nRV82ThnYvBfIGdt5bBaQ/UMr3jc84SwZNkoEbTNnKQsGi55IuXQllJhmqgxCEzYx\nL3UUSRNq+qJvXGIciPT9EkNhgsMg8Q5hW0Wxn6Nhob0ygQRKFHgAGqi71jhbNpKF\npxO/S9eUyPlPheQEu+ysmCsxm/gMwu+bZ/3V/zq+gV21fO6G1uZbh8HSWwBbk+MF\nwiRRX+t+iZ9hL8Azw8JUDVjKE5vs7q8rPg8JimfEOOr9CLnhlrwQYSzfPxpgeIwQ\n/ZyzmiW5AgMBAAECggEAFbqhuXtQsO2ts0N9VOE4pueXBfxTBMjoUbw00Yk6ZSqi\ndYWIDGRnQj/l3cWGwAWSj+qAsQKfvT8rX9EuY4ZxN32PLTJziittaMv3qfWZD3yV\nyrmcJxgg2b00QFZ8a+mLwwUWkmSjBi2AOR7hoa4HxfrKT06DhFPOT424pWjgdDYj\nTiPu+xlE1n/5xEUJe256e0dPagGNf/ciaKlalHuBvr07SQF3F4cwkOp2LB2KVlCy\nJyEVphg2cN3CmDoPWh67j+K9gswivNBGchZ4huosx4u9QF+9TzX1QhmFoOem6u6e\nkD+KsTj2f6iyhNE67BOMhvQIj0aZz5pLQnVbx/+mxQKBgQD+amdK231aEsIWsjiH\njFz0YIA2/fDGa3poLBVyzbhSmUSuLFyn9jXvupynH3AYt3v0bxWmemf43cQC+sZ/\nRL1eWU+6MZ7ej9fyIqTww6SzYh6peRWrmn/X0ld1sqC5m4wCftnCByeEgVLjp7Ix\n8eJmIKsPDoC1ZclW7b6i9YPzZQKBgQDE/FsCwzEGh4gSrLQCbiFOZzSkkQAcsMMK\njT1wfTnyOrb6lPTY0FG9xVAx7/3pmMsNKaf/xky+lsi5Fw17FdwPmgm8zpgy+Lx8\ncsg5iBfo5LdM7x1EiqakKdMbRTl5OJCFmL3nQhRY/DUOZdNnVBDoANkbNYVe23uB\ncasqt9VlxQKBgQD9p56WjuGatYsXT9d2paZj6/bJXUP6wFvJkvJLhPoaOD+2m/pB\naAP8oQTgx0JfEkkeusZONkqFYK21/st7RlC7ybXowOJRqf62pn3molkKlHBXrabC\ncga2ajvS2CbRB1l/f3OitLlcrgezfJX4n96GzlleaKpAsVwdNGpWVQya1QKBgGpk\ntq9OR7t0Fm2ns+4gF4MmQQuleX8FhcK8OHP6XwLS7aN4MqqsEYpC+SaPrf+uU/V/\nC0sdirPh8vXtWo2hZ+NRWnMMzq2xJPS+diCEvg0/AzXdbFxp2smOAYSYJguwHnbZ\n4a/3Q9AwIGPvYXhMsnjshFaq2Kc8On/WqhF/ixXVAoGAHpSh/eKXNivmOphKLiHm\n7omlmHMMZIY3jP263txV/1fdLy2JJ/WNx1jur1J4YWr/JzJ2DvFNCGL/BXiDLiYk\nczPcMZE8mdtPbO2evA0yIt9rgxHzbTogNgRt1n4nhIBM2aGFjxbsPlP9NKScTOki\nbAYlga+YzRwMDHupt3shSdA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "comix-accountant@comix-accountant.iam.gserviceaccount.com",
+  "client_id": "114757747809806132041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/comix-accountant%40comix-accountant.iam.gserviceaccount.com"
+}
